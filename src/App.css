@@ -22,3 +22,17 @@
               flex-direction: column;
               gap: 10px;
           }
+
+          .form_section {
+              display: flex;
+              flex-direction: column;
+          }
+
+          .Input_class {
+              display: flex;
+              gap: 10px;
+          }
+
+          .flexcolumn {
+              display: flex;
+          }
