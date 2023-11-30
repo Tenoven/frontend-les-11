@@ -1,0 +1,38 @@
+          .fruit-card{
+              display: flex;
+              justify-content: center;
+              gap: 10px;
+              align-items: center;
+              border: 2px solid violet;
+              border-radius: 15px;
+              width: 50%;
+          }
+          .reset_button{
+              display: flex;
+              width: 50%;
+              height: 50px;
+              align-items: center;
+              justify-content: center;
+              border: 2px solid violet;
+              border-radius: 15px;
+          }
+
+          .fruit_section {
+              display: flex;
+              flex-direction: column;
+              gap: 10px;
+          }
+
+          .form_section {
+              display: flex;
+              flex-direction: column;
+          }
+
+          .Input_class {
+              display: flex;
+              gap: 10px;
+          }
+
+          .flexcolumn {
+              display: flex;
+          }
